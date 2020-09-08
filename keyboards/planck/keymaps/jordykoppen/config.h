@@ -11,7 +11,7 @@
 #endif
 
 
-#define TAPPING_TERM 150
+// #define TAPPING_TERM 150
 
 /*
  * MIDI options
